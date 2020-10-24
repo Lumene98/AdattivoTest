@@ -7,7 +7,7 @@ Progetto per la candidatura di adattivo
 
 - Decomprimere i file in una cartella
 
-- Seguire i comandi da terminale direttamente nella cartella:
+- Eseguire i comandi da terminale direttamente nella cartella:
 
 ```bash
 npm install && npm run dev
