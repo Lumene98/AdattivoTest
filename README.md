@@ -3,7 +3,7 @@ Progetto per la candidatura di adattivo
 
 ## Installazione
 
-- Scaricare la release
+- Scaricare la [Release](https://github.com/Lumene98/AdattivoTest/releases/tag/v1.0)
 
 - Decomprimere i file in una cartella
 
